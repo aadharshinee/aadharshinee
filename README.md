@@ -1,0 +1,5 @@
+- 👋 Hi, I’m aadharshinee.
+- 👩‍🎓 B.tech IT student. 
+- 💻 I’m interested in Full stack development. 
+- 📫 How to reach me aadharshinee@gmail.com
+- 📚 Busy in exploring and developing my skills. 
