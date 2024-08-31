@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadharshinee J</h1>
 <h3 align="center">A passionate frontend developer from Coimbatore</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadharshinee" alt="aadharshinee" /></a> </p>
+- 🔭 I’m currently working on **Full Stack Development**
+
+- 👯 I’m looking to collaborate on **projects and contributing.**
 
 - 📫 How to reach me **aadharshinee@gmail.com**
+
+- ⚡ Fun fact **I lovelistening music :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
