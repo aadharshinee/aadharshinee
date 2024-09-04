@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aadharshinee@gmail.com**
 
-- ⚡ Fun fact **I lovelistening music :)**
+- ⚡ Fun fact **I love listening music :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
