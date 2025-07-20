@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadharshinee J</h1>
 <h3 align="center">A passionate frontend developer from Coimbatore</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 👨‍💻 Associate Support Engineer at BlueYonder
 
-- 👯 I’m looking to collaborate on **projects and contributing.**
-
+- 🚀 Passionate about delivering exceptional technical support and enhancing product performance.
+- 
 - 📫 How to reach me **aadharshinee@gmail.com**
 
-- ⚡ Fun fact **I love listening music :)**
+- ⚡ Fun fact **I love listening to music :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
